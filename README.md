@@ -1,4 +1,3 @@
-# tamagotchi-companion
 # Web Companion Application for Virtual Pet (Tamagotchi)
 
 ## 1. Project Concept (Brainstorming)
